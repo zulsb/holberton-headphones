@@ -22,13 +22,15 @@ Creation from scratch, without a library, of a web page. It uses all the knowled
 ![](./images/Footer.png)
 
 # Responsive desing
-Rendering on screen of max-width: 767px.
+Rendering on screen of **max-width: 767px.**
 <p align="center">
 <img src="./images/767px.png">
 </p>
 
-Rendering on screen of max-width: 480px.
-
+Rendering on screen of **max-width: 480px.**
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7723544/92073233-d72b0280-ed78-11ea-9149-6ab46a9bac50.gif">
+</p>
 ---
 
 ## Author
