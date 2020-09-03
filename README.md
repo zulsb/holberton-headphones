@@ -1,4 +1,3 @@
-# holberton-headphones
 ![HeadPhones](https://user-images.githubusercontent.com/7723544/91771967-8add9800-eba9-11ea-8805-b8973dd61ab8.gif)
 
 ## Description
