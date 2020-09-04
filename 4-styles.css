@@ -840,10 +840,8 @@ textarea:valid:not(:placeholder-shown) {
 ============================= */
   
 .footer {
-    --nav-item-font-weight: normal;
-    --nav-item-font-size: var(--font-size-small);
-    padding: var(--section-footer-padding);
-    background-color: var(--color-bluedark);
+  padding: var(--section-footer-padding);
+  background-color: var(--color-bluedark);
 }
 
 .footer-container {
@@ -853,21 +851,21 @@ textarea:valid:not(:placeholder-shown) {
 }
 
 .footer-copyright {
-    margin: 0;
-    font-size: var(--font-size-small);
-    color: var(--color-white);
-    text-align: center;
-    top: 4rem;
-    position: relative;
-    opacity: 0.4;
+  margin: 0;
+  font-size: var(--font-size-small);
+  color: var(--color-white);
+  text-align: center;
+  top: 4rem;
+  position: relative;
+  opacity: 0.4;
 }
   
 .footer ul {
-    text-align: right;
+  text-align: right;
 }
   
 .social-link {
-    display: block;
+  display: block;
 }
 
 .social-item a {
