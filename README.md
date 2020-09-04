@@ -21,6 +21,9 @@ Creation from scratch, without a library, of a web page. It uses all the knowled
 #### 5. Create the Footer piece --> [HTML file](./4-index.html) - [CSS file](./4-styles.css)
 ![](./images/Footer.png)
 
+# Advanced task
+#### 6. Replace image by... code! --> [HTML file](./100-index.html) - [CSS file](./100-styles.css)
+
 # Responsive desing
 Rendering on screen of **max-width: 767px.**
 <p align="center">
@@ -31,6 +34,7 @@ Rendering on screen of **max-width: 480px.**
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7723544/92073233-d72b0280-ed78-11ea-9149-6ab46a9bac50.gif">
 </p>
+
 ---
 
 ## Author
