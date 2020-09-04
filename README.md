@@ -23,6 +23,7 @@ Creation from scratch, without a library, of a web page. It uses all the knowled
 
 # Advanced task
 #### 6. Replace image by... code! --> [HTML file](./100-index.html) - [CSS file](./100-styles.css)
+![](./images/draw-pentagon.png)
 
 # Responsive desing
 Rendering on screen of **max-width: 767px.**
